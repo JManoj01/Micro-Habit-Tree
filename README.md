@@ -1,5 +1,5 @@
 
-# 🌳 Micro-Habit-Tree
+# 🌳 Micro Habit Tree
 
 A habit tracking app that visualizes your progress as a growing tree. Every completed habit adds a leaf to your tree, creating a living representation of your consistency and dedication.
 
